@@ -7,6 +7,7 @@
 		<a href="::api.config.rootPath::../samples/" class="button">Samples</a>
 		<a href="::api.config.rootPath::../documentation/" class="button">Documentation</a>
 		<a href="::api.config.rootPath::" class="button disabled">API</a>
+	<a href="::api.config.rootPath::" class="button disabled">Test</a>
 		<a href="https://community.heaps.io/" class="button" target="_blank">Community</a>
 	</nav>
 </header>
